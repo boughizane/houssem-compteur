@@ -1,0 +1,89 @@
+/* STYLING THE BUTTON*/
+.bt{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(212, 14, 14);
+    padding: 10px 20px;
+}
+
+ /* STYLING THE NAV BAR */
+.nav{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*styling the pages logo*/
+.LOGO{ 
+ width: 100px;
+ height: auto;
+ border: radius 50%;
+ overflow: hidden;
+ 
+}
+
+/*STYLING THE BODY*/
+body{
+  background-color: gold;
+
+
+}
+
+/*styling the texte of help*/
+.help{
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+font-weight: bold;
+color: blue;
+
+}
+/*styling the photo of help*/
+.hp1{
+width: 500px;
+height: auto;
+border: 90%;
+overflow: hidden;
+}
+/*styling the button*/
+.hp2{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    color: rgb(212, 14, 14);
+    padding: 10px 20px;
+} 
+/*styling the texte pc*/
+.pc{
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+font-weight: bold;
+color: rgb(93, 0, 255);
+}
+ /*styling the button */
+.pc1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(212, 14, 14);
+    padding: 10px 20px;
+}
+ /*styling the prix */
+.btt{
+    text-align: left;
+    color: black;
+}
+ /*styling the head */
+.pc2{
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color:gray
+}
+ /*styling the photo of the pc */
+.img1{
+    width: 500px;
+height: auto;
+border: 90%;
+overflow: hidden;
+}
